@@ -12,7 +12,7 @@ export class AboutComponent {
 
   private uiData: HeaderData = {
     title: 'Un poco sobre nosotros',
-    subtitle: 'Este el el subtitulo',
+    subtitle: 'Hola mundo',
     thumbnail: 'https://placehold.co/600x400'
   }
 
