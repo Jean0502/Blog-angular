@@ -1,9 +1,9 @@
 ---
 title: "Dependencia de ChatGPT: Una Reflexión Sobre Nuestro Uso de la IA Conversacional"
 subtitle: "Explorando cómo ChatGPT ha transformado nuestra vida diaria y si estamos desarrollando dependencia de su uso"
-thumbnail: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-psd%2Fmodern-youtube-thumbnail-design_40794277.htm&psig=AOvVaw1l-hptC7js0cAJJlhsNzOK&ust=1728061577574000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLi30ZfZ8ogDFQAAAAAdAAAAABAE
+thumbnail: 'https://images.hive.blog/DQmWvczh8p4fNfQs7vFeFhwM2PZpJVAdRpkUnKkRquSJFXs/image.png'
 publicationDate: "2024-10-03"
-author: "ChatGPT"
+author: "Jean"
 slug: "como-nos-hemos-vuelto-dependientes-a-chatgpt"
 
 ---

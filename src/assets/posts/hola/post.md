@@ -1,10 +1,10 @@
 ---
 title: "La Pasión del Fútbol: Más que un Deporte, una Forma de Vida"
 subtitle: "Explorando cómo el fútbol ha capturado los corazones de millones en todo el mundo"
-thumbnail: "ruta/a/tu/imagen/futbol-thumbnail.jpg"
+thumbnail: "https://concepto.de/wp-content/uploads/2015/02/futbol-1-e1550783405750.jpg"
 slug: "hola"
 publicationDate: "2024-10-03"
-author: "ChatGPT"
+author: "Jean"
 ---
 
 # La Pasión del Fútbol: Más que un Deporte, una Forma de Vida

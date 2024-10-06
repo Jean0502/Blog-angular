@@ -22,7 +22,7 @@ export class HomeComponent implements OnInit{
   private uiData: HeaderData = {
     title: 'BLOG DE JEAN',
     subtitle: 'Un inicio',
-    thumbnail: 'https://placehold.co/600x400'
+    thumbnail: 'https://www.japonalternativo.com/wp-content/uploads/2020/12/porque-a-japon-se-le-llama-el-imperio-del-sol-naciente.jpg'
   }
 
   posts: Array<PostPreview>=[]

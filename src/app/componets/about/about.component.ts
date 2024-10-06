@@ -13,7 +13,7 @@ export class AboutComponent {
   private uiData: HeaderData = {
     title: 'Un poco sobre nosotros',
     subtitle: 'Hola mundo',
-    thumbnail: 'https://placehold.co/600x400'
+    thumbnail: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3qX0Xdg0KIOJKDZzNS3PL0K8zr-IcxFJuyg&s'
   }
 
   constructor(private headerService:HeaderService){
